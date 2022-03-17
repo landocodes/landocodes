@@ -34,7 +34,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/lando_codes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lando_codes" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=landocodes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="landocodes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=landocodes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="landocodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landocodes&show_icons=true&theme=tokyonight&bg_color=000000&locale=en" alt="landocodes" /></p>
 
