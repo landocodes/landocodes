@@ -1,12 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/de/db/d3/dedbd35fd523ad115ef6af9fd1b82a00.gif
-)]
+![MasterHead](https://i.pinimg.com/originals/de/db/d3/dedbd35fd523ad115ef6af9fd1b82a00.gif
+)
 <h1 align="center">Hi 👋, I'm Orlando Blagrove</h1>
 <h3 align="center">A Computer Science Student , Developer and Content Creator</h3>
 <img align='right' alt='coding' src='https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=landocodes&label=Profile%20views&color=0e75b6&style=flat" alt="landocodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=landocodes" alt="landocodes" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/o_blagrove" target="blank"><img src="https://img.shields.io/twitter/follow/o_blagrove?logo=twitter&style=for-the-badge" alt="o_blagrove" /></a> </p>
 
@@ -36,8 +34,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/lando_codes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lando_codes" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=landocodes&show_icons=true&locale=en&layout=compact" alt="landocodes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=landocodes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="landocodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landocodes&show_icons=true&locale=en" alt="landocodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landocodes&show_icons=true&theme=tokyonight&bg_color=000000&locale=en" alt="landocodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=landocodes&" alt="landocodes" /></p>
