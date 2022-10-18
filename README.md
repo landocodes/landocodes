@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/OrlandoBlagrove" target="blank"><img src="https://img.shields.io/twitter/follow/o_blagrove?logo=twitter&style=for-the-badge" alt="o_blagrove" /></a> </p>
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on **improving coding skills**
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **blagrove87@gmail.com**
 
-- ⚡ Fun fact **I am funny and love playing video games**
+- ⚡ Fun fact **working to become a better version of myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
