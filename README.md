@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/de/db/d3/dedbd35fd523ad115ef6af9fd1b82a00.gif
 )
 <h1 align="center">Hi 👋, I'm Orlando Blagrove</h1>
-<h3 align="center">A Computer Science Student , Developer and Content Creator</h3>
+<h3 align="center">A web-developer and Content Creator</h3>
 <img align='right' alt='coding' src='https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=landocodes&label=Profile%20views&color=0e75b6&style=flat" alt="landocodes" /> </p>
