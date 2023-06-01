@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **improving coding skills**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and GSAP**
 
 - 💬 Ask me about **Python**
 
